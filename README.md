@@ -32,7 +32,7 @@ This project demonstrates how AI can be used for road safety and risk forecastin
 
 ```bash id="u1q2kx"
 RARIF-Framework/
-│---sample.csv
+├── sample_data.csv
 ├── data_generator.py
 ├── model.py
 ├── evaluate.py
@@ -96,8 +96,8 @@ python main.py
 
 ## 👨‍💻 Author
 
-Pushkar Sharma
-AI & Data Science Enthusiast
+Pushkar Sharma  
+AI & Data Science Enthusiast | BCA Student  
 
 ---
 
