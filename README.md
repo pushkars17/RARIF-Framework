@@ -32,7 +32,7 @@ This project demonstrates how AI can be used for road safety and risk forecastin
 
 ```bash id="u1q2kx"
 RARIF-Framework/
-│
+│---sample.csv
 ├── data_generator.py
 ├── model.py
 ├── evaluate.py
@@ -40,6 +40,8 @@ RARIF-Framework/
 ├── main.py
 ├── requirements.txt
 └── README.md
+
+Sample dataset included (sample_data.csv) for quick testing.
 ```
 
 ---
@@ -49,7 +51,7 @@ RARIF-Framework/
 ### 1. Clone the repository
 
 ```bash id="8s9v6h"
-git clone https://github.com/yourusername/RARIF-Framework.git
+git clone https://github.com/pushkars17/RARIF-Framework.git
 cd RARIF-Framework
 ```
 
